@@ -1,0 +1,1 @@
+This shows how to scrape text data from PDF and convert into a spreadsheet like format. I used R for this exercise. It is not a perfect job, especially the times, which are inconsistent in a few places. I'd say 95% complete. 
